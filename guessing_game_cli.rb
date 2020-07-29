@@ -12,6 +12,5 @@ def run_guessing_game
     else
       if input == leave
       puts "Goodbye!"
-    end
   end
 end
